@@ -1,8 +1,9 @@
-import StudentForm from './components/StudentForm';
+import React from 'react';
+import StudentForm from './StudentForm';
 
 function App() {
   return (
-    <div className="min-h-screen bg-gray-100 p-6">
+    <div className="App">
       <StudentForm />
     </div>
   );
