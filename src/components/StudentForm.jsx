@@ -1,4 +1,3 @@
-// StudentForm.jsx
 import React from 'react';
 
 const StudentForm = () => {
